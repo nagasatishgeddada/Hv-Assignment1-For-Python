@@ -1,0 +1,8 @@
+ BrandName and Color
+{'BMW': 'RED'}
+ BrandName and Color
+{'Isuzu': 'Sliver'}
+ BrandName and Color
+{'Audi': 'Green'}
+ BrandName and Color
+{'HYUNDAI': 'BLACK & WHITE'}

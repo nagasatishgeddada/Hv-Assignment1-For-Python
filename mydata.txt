@@ -1,0 +1,9 @@
+
+Inputs given by 5 users [100, 200, 300, 4, 5]
+609
+Inputs given by 5 users are [100, 200, 300, 400, 500]
+1500
+Inputs given by 5 users are [5, 5, 5, 5, 5]
+25
+Inputs given by 5 users are [1, 1, 1, 1, 1]
+5
